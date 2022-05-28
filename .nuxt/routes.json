@@ -1,0 +1,16 @@
+[
+  {
+    "name": "my-repositories",
+    "path": "/my-repositories",
+    "component": "/home/thegears/Desktop/coding/thegearsPortfolio/pages/my-repositories.vue",
+    "chunkName": "pages/my-repositories",
+    "_name": "_05d13c6f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/thegears/Desktop/coding/thegearsPortfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_39bcaa58"
+  }
+]
