@@ -1,9 +1,9 @@
 {
-    "botToken" : "OTc5ODA5NjM2ODEzMjYyODQ4.G35io_.SooTcR2xltQTM7773Oct3r34mUrhWidb3ldgv4",
-    "guildId": "971042225008021564",
-    "userId": "829632398341832704",
+    "botToken" : "",
+    "guildId": "",
+    "userId": "",
     "githubName": "thegears",
-    "text": "Hi, I'm Semih, aka thegears. The first to enter the software world is 8.I started with Scratch in class and really liked the software. Then I went to high school, and I had a computer class in high school. While there, I met python. As I go a little further, I finally get the node.js with discord.js.I met him thanks to js. The first months I wrote code by studying the code, doing trial and error. And then I started to improve. And I'm still improving myself. Technologies I use: discord.js, express, wio.db, mongodb, react, next, vue, nuxt, etc.",
+    "text": "",
     "projects": [
         {
             "image": "/gearscode.png",
