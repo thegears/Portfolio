@@ -1,9 +1,9 @@
 {
-    "botToken" : "",
-    "guildId": "",
-    "userId": "",
+    "botToken" : "bot tokeni",
+    "guildId": "botun ve sizin bulunduğunuz bir sunucu idsi",
+    "userId": "sizin idniz",
     "githubName": "thegears",
-    "text": "",
+    "text": "Ana sayfada gözükecek yazı",
     "projects": [
         {
             "image": "/gearscode.png",
